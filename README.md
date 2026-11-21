@@ -9,5 +9,6 @@ https://abinashspace.github.io/privacy-policies/app-name/
 Current policies:
 
 - [Cookie Note](https://abinashspace.github.io/privacy-policies/cookie-note/)
+- [Logobook](https://abinashspace.github.io/privacy-policies/logobook/)
 
 To add a policy for a new app, add a folder with an `index.html` and link it from the root `index.html`.
